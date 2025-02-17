@@ -1,0 +1,10 @@
+.Card img {
+  width: 300px;
+  height: 400px;
+  border-radius: 5%;
+}
+
+.Card {
+  margin: 1rem;
+  text-align: center;
+}

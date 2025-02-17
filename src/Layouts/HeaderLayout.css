@@ -1,0 +1,12 @@
+nav a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ff8e74;
+  /* position: fixed; */
+}
