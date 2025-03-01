@@ -7,7 +7,8 @@ function Home() {
     return (
         <>
             <div className='Homepage'>
-                <h1>   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui mauris, hendrerit quis purus non, iaculis vestibulum metus. Morbi pharetra nulla a consectetur volutpat. Vivamus dignissim mauris diam, eu pulvinar est ultrices in.
+                <h1>  Welcome to the JSSR Travel Journal.
+                    It's short but worth the time..........
                 </h1>
 
             </div>
