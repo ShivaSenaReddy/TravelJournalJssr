@@ -19,7 +19,7 @@ function App() {
           <Route path='/places' element={<Places />} />
           <Route path='/blog' element={<Blog />} />
           <Route path=':id' element={<Experience />} />
-          <Route path='*' element={<h1>NOt Found</h1>} />
+          <Route path='*' element={<h1>Not Found</h1>} />
         </Route>
       </Routes>
     </>
